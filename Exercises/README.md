@@ -85,18 +85,8 @@ while counter <=5:
 
 </details>
 
-## Exercises
-
-Write the Python solutions to the following exercises, these will be in one of the two forms discussed in the module.
 
 
-### Exercise 1
-
-![Image from Gyazo](https://i.gyazo.com/0d64386d132f0be6198baa807a962c15.png)
-
-### Exercise 2
-
-![Image from Gyazo](https://i.gyazo.com/05d67aa3b77837fc32bd2caf6253c0d3.png)
 
 ### Exercise 3
 
