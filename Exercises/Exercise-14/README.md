@@ -1,6 +1,6 @@
 # Exercise 14
 
-Write the Python solutions to the following exercise.
+Write the Python code to display the following in the output:
 
 ```
 Enter the first number: 7
