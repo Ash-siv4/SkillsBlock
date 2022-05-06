@@ -1,2 +1,2 @@
-# Labs
+# BlockChain Labs
 
