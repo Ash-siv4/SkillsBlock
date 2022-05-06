@@ -6,9 +6,9 @@ This repository contains the reading material and challenges for those who atten
 
 To recap any of the topics covered in the live session, navigate into the *courseware* folder and find the folder for the topic you wish to go over.
 
-## Exercises
+## Labs
 
-To practice what you have learnt from the live session, navigate into the *exercises* folder and work through any of the exercises listed in it.
+To practice what you have learnt from the live session, navigate into the *labs* folder and work through any of the exercises listed in it.
 
 ## Projects
 
