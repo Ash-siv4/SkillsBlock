@@ -1,6 +1,6 @@
-# Courseware for TTNTC
+# Courseware for Python
 
-This repository contains the reading material for those who attend the TTNTC sessions. Please refer to the material provided here to enhance your knowledge and clear up any doubts you may have.
+This repository contains the reading material for those who attend the live sessions. Please refer to the material provided here to enhance your knowledge and clear up any doubts you may have.
 
 Contents include:
 
