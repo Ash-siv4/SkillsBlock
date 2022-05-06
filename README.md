@@ -1,11 +1,9 @@
-# Teach The Nation To Code (TTNTC)
+# SkillsBlock
 
-This repository contains the reading material and challenges for those who attend the TTNTC sessions.
+SkillsBlock is a community for like-minded individuals to come together and benefit from free learning which includes live sessions (workshops) as well as additional resources (content). 
 
-## Courseware
+The content is made up of courseware, labs/exercises and projects.
 
-To recap any of the topics covered in the live TTNTC session, navigate into the *courseware* folder and find the folder for the topic you wish to go over.
+Initially, SkillsBlock will be running two types of workshops, one on Python and the other on Blockchain. 
 
-## Exercises
-
-To practice what you have learnt from the live TTNTC session, navigate into the *exercises* folder and work through any of the exercises listed in it.
+The content for both is can be found in their subsequent folders in this repository.
