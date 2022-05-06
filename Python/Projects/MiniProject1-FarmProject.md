@@ -1,9 +1,9 @@
-# TTNTC Python Project
+# Farm Project - Python
 
 ## Introduction 
-The purpose of this document is to outline the TTNTC python project specification.
+The purpose of this document is to outline the python project specification.
 
-This project will involve all the concepts covered in the TTNTC beginner session you attended; more specifically, this will involve: 
+This project will involve all the concepts covered in the python beginner session you attended; more specifically, this will involve: 
 - Data Types
 - Flowcharts
 - Conditionals 
